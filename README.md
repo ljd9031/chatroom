@@ -1,0 +1,1 @@
+The front and rear end use websocket to transmit the information serialized by json, including the most basic functions
